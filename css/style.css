@@ -1,0 +1,224 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.nav {
+  display: flex;
+  margin: 0rem 3rem;
+  padding: 2rem 0;
+}
+.background {
+  background-color: #1b3764;
+}
+.left-side {
+  display: flex;
+  margin-right: 6rem;
+}
+.left-side .page {
+  color: #fff;
+  font-size: 24px;
+  margin: 0 2px;
+  font-weight: bold;
+  margin-right: 1rem;
+}
+.book-icone img {
+  margin-top: 5px;
+}
+.face {
+  margin: 3px;
+}
+.dropdown-menu li {
+  display: none;
+}
+.dropdown:hover .dropdown-menu li {
+  display: block;
+}
+.middle {
+  display: flex;
+  margin-top: 0.5rem;
+  margin-left: 5.9rem;
+}
+.middle a {
+  color: #fff;
+}
+.middle div a {
+  color: #fff;
+}
+.home {
+  padding: 0 1rem;
+  text-decoration: none;
+}
+.bttn {
+  padding: 0.5rem 2rem;
+  border-radius: 4px;
+  background-color: #ffca42;
+  border: none;
+  color: #1b3764;
+}
+.demo {
+  background-color: #1b3764;
+  border: none;
+  text-decoration: underline;
+  color: #fff;
+  margin-left: 1rem;
+}
+.cart img {
+  margin-top: 6px;
+  margin-right: 8px;
+}
+.right-side {
+  display: flex;
+}
+.section {
+  display: flex;
+  margin: 3rem 3rem;
+  padding-bottom: 3rem;
+}
+.paragraph {
+  margin-top: 4rem;
+}
+.paragraph div {
+  color: #fff;
+}
+.magic {
+  font-size: 50px;
+  margin-top: 1rem;
+}
+.paragraph p {
+  color: #95abd2;
+  font-size: 20px;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+.words {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  margin-right: 1rem;
+}
+.words span {
+  font-size: 20px;
+  text-transform: capitalize;
+}
+.words p {
+  font-size: 16px;
+  text-align: center;
+}
+.boxes {
+  display: flex;
+}
+.one {
+  background-color: #f5f8ff;
+  padding: 3rem;
+  margin: 1rem;
+  border-radius: 1rem;
+}
+.cyrcle {
+  background-color: #ffca42;
+  width: 30px;
+  height: 28px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+.cyrcle p {
+  text-align: center;
+}
+.flex {
+  display: flex;
+}
+.section-two h4 {
+  color: #1b3764;
+  text-align: center;
+  font-size: 32px;
+  margin: 2rem;
+}
+.section-three {
+  padding: 5rem;
+  background-color: #f5f8ff;
+}
+.section-three h4 {
+  color: #1b3764;
+  text-align: center;
+  font-size: 32px;
+  margin: 2rem;
+}
+.section-three .tow {
+  background-color: #fff;
+  border-radius: 1rem;
+  padding: 2rem;
+  margin: 1rem;
+}
+.chapter h3 {
+  font-size: 20px;
+  color: #1b3764;
+}
+.chapter p {
+  color: #b1b0b0;
+}
+.true {
+  display: flex;
+}
+.light {
+  color: #b1b0b0;
+  margin-right: 3rem;
+}
+.contain {
+  display: flex;
+}
+.discription {
+  color: #999999;
+  font-size: 16px;
+  text-align: center;
+  margin: 1rem 0;
+}
+.link a {
+  color: #1b3764;
+  text-align: center;
+}
+.bottom {
+  margin: 2rem 24rem;
+}
+.lorm {
+  padding: 3rem;
+}
+.lorm h6 {
+  color: #1b3764;
+  font-size: 22px;
+  margin: 1rem 0;
+}
+.lorm p {
+  color: #999999;
+}
+.lorm span {
+  color: #1b3764;
+  font-size: 16px;
+  margin-right: 2rem;
+}
+.lorm span a {
+  color: #1b3764;
+  font-size: 16px;
+}
+.resours {
+  display: flex;
+}
+.section-four h4 {
+  color: #1b3764;
+  text-align: center;
+  font-size: 32px;
+  margin: 2rem;
+}
+footer {
+  background-color: #1b3764;
+  padding: 1.4rem;
+}
+footer span {
+  text-align: center;
+  color: #fff;
+}
+footer .copy {
+  color: #95abd2;
+}
+footer div {
+  text-align: center;
+}
